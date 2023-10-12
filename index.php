@@ -1,5 +1,5 @@
 <?php
-include('mailman.php');
+include('mailman.html');
 //codee
 
 
